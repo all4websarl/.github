@@ -31,7 +31,7 @@ Official Website
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=all4websarl&style=flat-square&color=0088AA" alt=""></p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; width:100%;"  /></p>
 
 ### :information_source: &nbsp;About All4Web :
 
