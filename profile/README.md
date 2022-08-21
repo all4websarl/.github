@@ -40,7 +40,8 @@ Our main services are:
 
 - Web application development.
 - Payment solutions provider for individuals & businesses.
-- NYC & Security API provider
+- NYC &amp; Security API provider
+- HTML, WordPress themes &amp; plugins, &amp; Shopify themes development
 - Free social & geographical statistical data API provider
 
 ---
