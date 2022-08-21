@@ -3,8 +3,8 @@
 <img src="https://all4web.dev/logo_blue.png" width="100"/></p>
 </a>
 
-<p align="center">
-<a href="https://all4web.dev" style="color:#0088AA;">
+<p align="center" style="color: #0088AA;">
+<a href="https://all4web.dev" style="color: #0088AA;">
 Official Website
 </a>
 </p>
