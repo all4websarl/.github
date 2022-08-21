@@ -4,29 +4,29 @@
 </a>
 
 <p align="center">
-<a href="https://all4web.dev">
+<a href="https://all4web.dev" style="color:#0088AA;">
 Official Website
 </a>
 </p>
 <p align="center">
 
 <a href="https://facebook.com/all4websarl" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="41" width="174">
+<img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="41" width="174">
 </a>
 
 <a href="https://twitter.com/all4websarl" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="41" width="174">
+<img src="https://img.shields.io/badge/Twitter-55acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="41" width="174">
 </a>
 
 <a href="https://www.linkedin.com/company/all4web">
-<img src="https://img.shields.io/badge/LinkedIn-0088AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="41" width="174">
+<img src="https://img.shields.io/badge/LinkedIn-007bb5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="41" width="174">
 </a>
 
 <a href="https://www.instagram.com/all4websarl/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174">
+<img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174">
 </a>
 <a href="https://github.com/all4websarl/" target="_blank">
-<img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="41" width="174">
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="41" width="174">
 </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=all4websarl&style=flat-square&color=0088AA" alt=""></p>
