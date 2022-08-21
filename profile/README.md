@@ -19,7 +19,7 @@ Official Website
 </a>
 
 <a href="https://www.linkedin.com/company/all4web">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="41" width="174">
+<img src="https://img.shields.io/badge/LinkedIn-0088AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="41" width="174">
 </a>
 
 <a href="https://www.instagram.com/all4websarl/" target="_blank">
