@@ -10,11 +10,11 @@ Official Website
 </p>
 <p align="center">
 
-<a href="https://facebook.com/all4websarl" target="_blank">
+<a href="https://facebook.com/all4webltd" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="41" width="174">
 </a>
 
-<a href="https://twitter.com/all4websarl" target="_blank">
+<a href="https://twitter.com/all4webltd" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-55acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="41" width="174">
 </a>
 
@@ -22,7 +22,7 @@ Official Website
 <img src="https://img.shields.io/badge/LinkedIn-007bb5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="41" width="174">
 </a>
 
-<a href="https://www.instagram.com/all4websarl/" target="_blank">
+<a href="https://www.instagram.com/all4webltd/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174">
 </a>
 <a href="https://github.com/all4websarl/" target="_blank">
@@ -35,7 +35,7 @@ Official Website
 
 ### :information_source: &nbsp;About All4Web :
 
-All4Web LLC & Sarl is a company registered both in Togo and in the USA.
+All4Web LTD.
 Our main services are:
 
 - Web application development.
